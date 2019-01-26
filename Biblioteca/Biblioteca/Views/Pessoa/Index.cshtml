@@ -1,0 +1,29 @@
+﻿@ model IEnumerable<Biblioteca.Models.PessoaViewModel>
+
+    ViewBag.Title = "Index";
+    }
+
+    <h2>Index</h2>
+
+    <table class="table">
+
+        @foreach (var p in Model)
+        {
+            <tr>
+                <td>
+                    @p.Nome
+                </td>
+                <td>
+                    @p.DtNascimento
+                </td>
+                <td>
+                    @p.Telefone
+                </td>
+            </tr>
+        }
+
+    </table>
+
+
+
+

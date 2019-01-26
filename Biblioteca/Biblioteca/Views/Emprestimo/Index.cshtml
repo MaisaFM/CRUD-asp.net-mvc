@@ -1,0 +1,32 @@
+﻿@ model IEnumerable<Biblioteca.Models.EmprestimoViewModel>
+
+    ViewBag.Title = "Index";
+    }
+
+    <h2>Index</h2>
+
+    <table class="table">
+
+        @foreach (var e in Model)
+        {
+        <tr>
+            <td>
+                @e.LivroId
+            </td>
+            <td>
+                @e.PessoaId
+            </td>
+            <td>
+                @e.DtEmprestimo
+            </td>
+            <td>
+                @e.DtDevsolucao
+            </td>
+        </tr>
+        }
+
+    </table>
+
+
+
+

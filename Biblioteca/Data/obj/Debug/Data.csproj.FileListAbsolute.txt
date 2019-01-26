@@ -1,0 +1,17 @@
+C:\Users\maisa\Dropbox\Estudo\CRUD\Biblioteca\Data\bin\Debug\Data.dll.config
+C:\Users\maisa\Dropbox\Estudo\CRUD\Biblioteca\Data\bin\Debug\Data.dll
+C:\Users\maisa\Dropbox\Estudo\CRUD\Biblioteca\Data\bin\Debug\Data.pdb
+C:\Users\maisa\Dropbox\Estudo\CRUD\Biblioteca\Data\bin\Debug\Dominio.dll
+C:\Users\maisa\Dropbox\Estudo\CRUD\Biblioteca\Data\bin\Debug\EntityFramework.dll
+C:\Users\maisa\Dropbox\Estudo\CRUD\Biblioteca\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maisa\Dropbox\Estudo\CRUD\Biblioteca\Data\bin\Debug\Dominio.pdb
+C:\Users\maisa\Dropbox\Estudo\CRUD\Biblioteca\Data\bin\Debug\Dominio.dll.config
+C:\Users\maisa\Dropbox\Estudo\CRUD\Biblioteca\Data\bin\Debug\EntityFramework.xml
+C:\Users\maisa\Dropbox\Estudo\CRUD\Biblioteca\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maisa\Dropbox\Estudo\CRUD\Biblioteca\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\maisa\Dropbox\Estudo\CRUD\Biblioteca\Data\obj\Debug\Data.Migrations.bibliotecastart.resources
+C:\Users\maisa\Dropbox\Estudo\CRUD\Biblioteca\Data\obj\Debug\Data.csproj.GenerateResource.cache
+C:\Users\maisa\Dropbox\Estudo\CRUD\Biblioteca\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\maisa\Dropbox\Estudo\CRUD\Biblioteca\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\maisa\Dropbox\Estudo\CRUD\Biblioteca\Data\obj\Debug\Data.dll
+C:\Users\maisa\Dropbox\Estudo\CRUD\Biblioteca\Data\obj\Debug\Data.pdb

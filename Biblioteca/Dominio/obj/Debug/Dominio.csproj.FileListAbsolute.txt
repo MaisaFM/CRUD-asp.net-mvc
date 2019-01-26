@@ -1,0 +1,12 @@
+C:\Users\maisa\Dropbox\Estudo\CRUD\Biblioteca\Dominio\bin\Debug\Dominio.dll.config
+C:\Users\maisa\Dropbox\Estudo\CRUD\Biblioteca\Dominio\bin\Debug\Dominio.dll
+C:\Users\maisa\Dropbox\Estudo\CRUD\Biblioteca\Dominio\bin\Debug\Dominio.pdb
+C:\Users\maisa\Dropbox\Estudo\CRUD\Biblioteca\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\maisa\Dropbox\Estudo\CRUD\Biblioteca\Dominio\obj\Debug\Dominio.dll
+C:\Users\maisa\Dropbox\Estudo\CRUD\Biblioteca\Dominio\obj\Debug\Dominio.pdb
+C:\Users\maisa\Dropbox\Estudo\CRUD\Biblioteca\Dominio\bin\Debug\EntityFramework.dll
+C:\Users\maisa\Dropbox\Estudo\CRUD\Biblioteca\Dominio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maisa\Dropbox\Estudo\CRUD\Biblioteca\Dominio\bin\Debug\EntityFramework.xml
+C:\Users\maisa\Dropbox\Estudo\CRUD\Biblioteca\Dominio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maisa\Dropbox\Estudo\CRUD\Biblioteca\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\maisa\Dropbox\Estudo\CRUD\Biblioteca\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+https://docs.microsoft.com/pt-br/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/creating-an-entity-framework-data-model-for-an-asp-net-mvc-application
+
+Dos ferramentas menu, escolha Gerenciador de pacotes NuGete, em seguida, escolha Package Manager Console.
+No Package Manager Console janela, digite o seguinte comando:
+text
+
+Copiar
+Install-Package EntityFramework
+
+
+add references in project because one not see the other 
